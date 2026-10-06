@@ -1,0 +1,5 @@
+langgraph>=1.0.0
+langchain-core>=0.3.0
+langchain-google-genai>=4.0.0
+google-generativeai>=0.8.0
+streamlit>=1.40.0
